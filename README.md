@@ -1,0 +1,2 @@
+# VisualStudioCodeChina
+cdn
