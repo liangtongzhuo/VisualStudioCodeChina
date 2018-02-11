@@ -1,6 +1,10 @@
 {
-  "main.css": "static/css/main.f71d28ea.css",
-  "main.css.map": "static/css/main.f71d28ea.css.map",
-  "main.js": "static/js/main.1e797854.js",
-  "main.js.map": "static/js/main.1e797854.js.map"
+  "admin.css": "static/css/admin.735549d6.css",
+  "admin.css.map": "static/css/admin.735549d6.css.map",
+  "admin.js": "static/js/admin.6c476b90.js",
+  "admin.js.map": "static/js/admin.6c476b90.js.map",
+  "index.css": "static/css/index.735549d6.css",
+  "index.css.map": "static/css/index.735549d6.css.map",
+  "index.js": "static/js/index.b8c84263.js",
+  "index.js.map": "static/js/index.b8c84263.js.map"
 }
