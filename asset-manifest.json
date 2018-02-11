@@ -1,14 +1,14 @@
 {
   "index.css": "static/css/index.735549d6.css",
   "index.css.map": "static/css/index.735549d6.css.map",
-  "index.js": "static/js/index.667a586c.js",
-  "index.js.map": "static/js/index.667a586c.js.map",
+  "index.js": "static/js/index.cdf370b6.js",
+  "index.js.map": "static/js/index.cdf370b6.js.map",
   "login.css": "static/css/login.735549d6.css",
   "login.css.map": "static/css/login.735549d6.css.map",
-  "login.js": "static/js/login.f6ee1327.js",
-  "login.js.map": "static/js/login.f6ee1327.js.map",
+  "login.js": "static/js/login.8be2351f.js",
+  "login.js.map": "static/js/login.8be2351f.js.map",
   "oauth.css": "static/css/oauth.735549d6.css",
   "oauth.css.map": "static/css/oauth.735549d6.css.map",
-  "oauth.js": "static/js/oauth.a6177607.js",
-  "oauth.js.map": "static/js/oauth.a6177607.js.map"
+  "oauth.js": "static/js/oauth.b4e3d646.js",
+  "oauth.js.map": "static/js/oauth.b4e3d646.js.map"
 }
